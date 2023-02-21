@@ -25,7 +25,6 @@
 
 <img src="https://raw.githubusercontent.com/godkingjay/godkingjay/master/assets/borderseparator.gif" width="100%"/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreekeshavan&show_icons=true&locale=en" alt="shreekeshavan" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreekeshavan&" alt="shreekeshavan" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreekeshavan&show_icons=true&locale=en&layout=compact" alt="shreekeshavan" /></p>

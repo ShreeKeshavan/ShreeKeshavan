@@ -1,6 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Keshavan+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Keshavan and Welcome to my Profile! animated typed out" width="100%"/>
 <img src="https://raw.githubusercontent.com/godkingjay/godkingjay/master/assets/borderseparator.gif" width="100%"/>
 <h3 align="center">A passionate Data Science enthusiast. Unlocking Insights and Driving Decisions with Data Science.</h3>
+
 <p align="left"> <a href="https://twitter.com/keshav_decoder" target="blank"><img src="https://img.shields.io/twitter/follow/keshav_decoder?logo=twitter&style=for-the-badge" alt="keshav_decoder" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreekeshavan&label=Profile%20views&color=0e75b6&style=flat" alt="shreekeshavan" /> </p>
